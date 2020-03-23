@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1584027056491,
+  "timestamp": 1584961387677,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,11 +10,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.0a42c5d24319dafb5107.js",
-        "/main-es5.0a42c5d24319dafb5107.js",
+        "/main-es2015.7c2b9ed9fbbfa60d0272.js",
+        "/main-es5.7c2b9ed9fbbfa60d0272.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.5b10b8fd823b6392f1fd.js",
-        "/polyfills-es5.8e50a9832860f7cf804a.js",
+        "/polyfills-es5.3e8196928d184a6e5319.js",
         "/runtime-es2015.c5fa8325f89fc516600b.js",
         "/runtime-es5.c5fa8325f89fc516600b.js",
         "/styles.bd608981a309edf4186b.css"
@@ -71,12 +71,12 @@
     "/assets/img/acbLogo.png": "fe6e4fd8cb9683791949009ca24277802d15d907",
     "/assets/img/acbLogoGroß.png": "60bb5456cd33cc97da69f48fa78c7717ac470f1d",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "0bdb7d8de3025bb750cf87c6b379faff5c7b021a",
-    "/main-es2015.0a42c5d24319dafb5107.js": "19835a3303fe6954151b791683e5c6d447b7f84f",
-    "/main-es5.0a42c5d24319dafb5107.js": "a99bdfd44f06ef4b8f4fde309b5d090b4153d149",
+    "/index.html": "857c571bc9e84f1f39e8db4776e26e8e329eba4b",
+    "/main-es2015.7c2b9ed9fbbfa60d0272.js": "c1f0cc26a4d5c8ec3eb093e63a0ba92bbca8eee9",
+    "/main-es5.7c2b9ed9fbbfa60d0272.js": "874b1278373d83ec3ffcd076d716925b49de8ca7",
     "/manifest.webmanifest": "895bd750b2ffd9afe1fc7e4f2abc2f966418524a",
     "/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
-    "/polyfills-es5.8e50a9832860f7cf804a.js": "a9abcb7b9e74feed315773004b623373fdf3fada",
+    "/polyfills-es5.3e8196928d184a6e5319.js": "a9abcb7b9e74feed315773004b623373fdf3fada",
     "/runtime-es2015.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/runtime-es5.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/styles.bd608981a309edf4186b.css": "f45b65a1e0cabea75876fd7c1208ed87f3a500cf"
