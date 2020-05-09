@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1589055932533,
+  "timestamp": 1589057173507,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.24580f913f8d38d36482.js",
-        "/main-es5.24580f913f8d38d36482.js",
+        "/main-es2015.39e5e9d1b00cb0e70158.js",
+        "/main-es5.39e5e9d1b00cb0e70158.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.5b10b8fd823b6392f1fd.js",
         "/polyfills-es5.3e8196928d184a6e5319.js",
@@ -69,9 +69,9 @@
     "/assets/img/acbLogo.png": "fe6e4fd8cb9683791949009ca24277802d15d907",
     "/assets/img/acbLogoGroß.png": "60bb5456cd33cc97da69f48fa78c7717ac470f1d",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "97a41510d03f53bce91dc072bb6d222e93e89011",
-    "/main-es2015.24580f913f8d38d36482.js": "35b5a5f4852fd72c50f842cb96d8524a938ca942",
-    "/main-es5.24580f913f8d38d36482.js": "f2a2ac57e7b5fba05d4223ba1ba6b500e1d7d9e9",
+    "/index.html": "e35cf6edc7be2dad18ca2a96cdc5b5277a1741a9",
+    "/main-es2015.39e5e9d1b00cb0e70158.js": "ea4330293cd96cd1ea0cbe0b94cd80f6d03b8ee1",
+    "/main-es5.39e5e9d1b00cb0e70158.js": "d532a89f93ff4ceec7d8c7286553ea9045d4ee9b",
     "/manifest.webmanifest": "db3202b778e2343469100591dcbadf4c7831949d",
     "/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
     "/polyfills-es5.3e8196928d184a6e5319.js": "a9abcb7b9e74feed315773004b623373fdf3fada",
