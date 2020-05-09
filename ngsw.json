@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1587075629079,
+  "timestamp": 1589055932533,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.95ec78c87eebfeda031a.js",
-        "/main-es5.95ec78c87eebfeda031a.js",
+        "/main-es2015.24580f913f8d38d36482.js",
+        "/main-es5.24580f913f8d38d36482.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.5b10b8fd823b6392f1fd.js",
         "/polyfills-es5.3e8196928d184a6e5319.js",
@@ -34,7 +34,6 @@
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
-        "/assets/img/Fischauge.png",
         "/assets/img/acbLogo.jpg",
         "/assets/img/acbLogo.png",
         "/assets/img/acbLogoGroß.png"
@@ -66,15 +65,14 @@
     "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/assets/img/Fischauge.png": "68e70f58547b83377e797f0e9c9794aec909eaa8",
     "/assets/img/acbLogo.jpg": "0fe8fd985f6a091743bd24651d1b5749b232e698",
     "/assets/img/acbLogo.png": "fe6e4fd8cb9683791949009ca24277802d15d907",
     "/assets/img/acbLogoGroß.png": "60bb5456cd33cc97da69f48fa78c7717ac470f1d",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "50ea0f6013dfc5a82c605d06aa02115cf6894d2f",
-    "/main-es2015.95ec78c87eebfeda031a.js": "7d3cdcd06a0dc04e67bbc6461192cfd5bee809dc",
-    "/main-es5.95ec78c87eebfeda031a.js": "6787491ded2856a67d3b91b1cc77dc362b7391d4",
-    "/manifest.webmanifest": "895bd750b2ffd9afe1fc7e4f2abc2f966418524a",
+    "/index.html": "97a41510d03f53bce91dc072bb6d222e93e89011",
+    "/main-es2015.24580f913f8d38d36482.js": "35b5a5f4852fd72c50f842cb96d8524a938ca942",
+    "/main-es5.24580f913f8d38d36482.js": "f2a2ac57e7b5fba05d4223ba1ba6b500e1d7d9e9",
+    "/manifest.webmanifest": "db3202b778e2343469100591dcbadf4c7831949d",
     "/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
     "/polyfills-es5.3e8196928d184a6e5319.js": "a9abcb7b9e74feed315773004b623373fdf3fada",
     "/runtime-es2015.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
